@@ -1,4 +1,4 @@
-# 🏪 Imagine Your Store - Vending Machine Analytics Pipeline
+# Vending Machine Analytics Pipeline
 
 **[English](#english) | [Português](#português)**
 
